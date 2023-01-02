@@ -19,6 +19,7 @@
 
 
 
+
 ## 📌 크롤링(셀레니움) 자바 팀 프로젝트
 
 ![슬라이드0001](https://user-images.githubusercontent.com/109491137/210208056-5d29ec6d-d063-4689-a27b-a3db0e1fcba0.jpg)
@@ -27,4 +28,4 @@
 ![슬라이드0005](https://user-images.githubusercontent.com/109491137/210208061-1202dcbf-b9d1-4f96-86db-59fe5b3aa4fe.jpg)
 ![슬라이드0006](https://user-images.githubusercontent.com/109491137/210208064-501ee8c5-0456-4e5a-bee0-10cbaf75c7e5.jpg)
 ![슬라이드0007](https://user-images.githubusercontent.com/109491137/210208066-f45b0548-49ea-457d-9bf3-5b700aaaf4f6.jpg)
-![슬라이드0009](https://user-images.githubusercontent.com/109491137/210208068-f5f6bfbe-c04d-4fe0-afb4-76638ea8cdb8.jpg)
+![EPL프로젝트](https://user-images.githubusercontent.com/109491137/210210152-ee88a673-70a4-4bed-ad0e-05dca9a6a88c.jpg)
