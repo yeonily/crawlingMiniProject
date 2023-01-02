@@ -20,23 +20,22 @@
 
 
 
-# 📌 크롤링(셀레니움) 자바 팀 프로젝트
-#
 
-## ⏱️ 개발 기간
+## 📌 크롤링(셀레니움) 자바 팀 프로젝트
+
+
+
+### ⏱️ 개발 기간
 - 22.09.02 ~ 22.09.08
 
-## 🧑🏻‍🤝‍🧑🏼 맡은 역할
-- FunctionDAO
-- DB
 
-
-## ✨ 포트폴리오
-
-![슬라이드0001](https://user-images.githubusercontent.com/109491137/210208056-5d29ec6d-d063-4689-a27b-a3db0e1fcba0.jpg)
-![슬라이드0003](https://user-images.githubusercontent.com/109491137/210208058-09f97e97-98a1-4afc-88c9-7d54cfc7d99c.jpg)
-![슬라이드0004](https://user-images.githubusercontent.com/109491137/210208059-8a2adffc-ec9e-4b7a-bf75-b0dd537b64d5.jpg)
-![슬라이드0005](https://user-images.githubusercontent.com/109491137/210208061-1202dcbf-b9d1-4f96-86db-59fe5b3aa4fe.jpg)
-![슬라이드0006](https://user-images.githubusercontent.com/109491137/210208064-501ee8c5-0456-4e5a-bee0-10cbaf75c7e5.jpg)
-![슬라이드0007](https://user-images.githubusercontent.com/109491137/210208066-f45b0548-49ea-457d-9bf3-5b700aaaf4f6.jpg)
+### ✨ 포트폴리오
+![슬라이드0001](https://user-images.githubusercontent.com/109491137/210211014-9d352e25-0d8f-4de8-9ee9-d9714555161a.jpg)
+![슬라이드0002](https://user-images.githubusercontent.com/109491137/210211016-b0edf0fc-d6ac-4153-963c-6786b166e0bb.jpg)
+![슬라이드0003](https://user-images.githubusercontent.com/109491137/210211017-deb36848-9a02-4440-bb18-f11c29bc5bb8.jpg)
+![슬라이드0004](https://user-images.githubusercontent.com/109491137/210211018-c33b46a5-93eb-4ef5-8778-db151d98da53.jpg)
+![슬라이드0005](https://user-images.githubusercontent.com/109491137/210211020-ddc4d3e8-88b4-4a21-afb1-7380d406ce84.jpg)
+![슬라이드0006](https://user-images.githubusercontent.com/109491137/210211021-eaf9b0e8-02a9-4e7b-b079-409d0f3e8080.jpg)
+![슬라이드0007](https://user-images.githubusercontent.com/109491137/210211008-200133c6-b717-43d8-8fab-b1f61f98fd68.jpg)
+![슬라이드0008](https://user-images.githubusercontent.com/109491137/210211013-1f5598a0-c840-4959-bc0a-7859bbed2649.jpg)
 ![EPL프로젝트](https://user-images.githubusercontent.com/109491137/210210152-ee88a673-70a4-4bed-ad0e-05dca9a6a88c.jpg)
